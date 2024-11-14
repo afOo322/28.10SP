@@ -1,0 +1,9 @@
+﻿<Application x:Class="Simulation_of_a_distributed_system_28._10._2024_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Simulation_of_a_distributed_system_28._10._2024_"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
